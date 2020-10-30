@@ -1,0 +1,9 @@
+{
+  "require": {
+    "php": "^7.4",
+    "robrichards/wse-php": "^2.0",
+    "ext-soap": "*",
+    "ext-dom": "*",
+    "webmozart/path-util": "^2.3"
+  }
+}
